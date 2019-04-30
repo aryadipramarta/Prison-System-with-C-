@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1556545405 source:d:\jnana\std\tubes\tubesbaru\main.cpp
+	"penjara.h"
+	"aplikasi.h"
+	"tahanan.h"
+	"relasi.h"
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+
+1556538988 source:d:\jnana\std\tubes\tubesbaru\penjara.cpp
+	"penjara.h"
+
+1556538989 d:\jnana\std\tubes\tubesbaru\penjara.h
+	<iostream>
+	<stdlib.h>
+
+1556509387 source:d:\jnana\std\tubes\tubesbaru\relasi.cpp
+	"relasi.h"
+	"penjara.h"
+
+1556509387 d:\jnana\std\tubes\tubesbaru\relasi.h
+	"penjara.h"
+	<iostream>
+	<stdlib.h>
+
+1556543680 source:d:\jnana\std\tubes\tubesbaru\tahanan.cpp
+	"tahanan.h"
+	"relasi.h"
+
+1556506885 d:\jnana\std\tubes\tubesbaru\tahanan.h
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+
+1556545858 source:d:\jnana\std\tubes\tubesbaru\aplikasi.cpp
+	"aplikasi.h"
+
+1556545055 d:\jnana\std\tubes\tubesbaru\aplikasi.h
+	<iostream>
+	<stdlib.h>
+	"tahanan.h"
+	"penjara.h"
+	"relasi.h"
+
+1556572502 source:c:\users\microsoft\downloads\tubesbaru\tubesbaru\aplikasi.cpp
+	"aplikasi.h"
+
+1556571986 c:\users\microsoft\downloads\tubesbaru\tubesbaru\aplikasi.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"tahanan.h"
+	"penjara.h"
+	"relasi.h"
+
+1556571915 c:\users\microsoft\downloads\tubesbaru\tubesbaru\tahanan.h
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1556561018 c:\users\microsoft\downloads\tubesbaru\tubesbaru\relasi.h
+	"penjara.h"
+	<iostream>
+	<stdlib.h>
+
+1556568198 c:\users\microsoft\downloads\tubesbaru\tubesbaru\penjara.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1556571915 source:c:\users\microsoft\downloads\tubesbaru\tubesbaru\main.cpp
+	"penjara.h"
+	"aplikasi.h"
+	"tahanan.h"
+	"relasi.h"
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+
+1556561269 source:c:\users\microsoft\downloads\tubesbaru\tubesbaru\penjara.cpp
+	"penjara.h"
+
+1556565321 source:c:\users\microsoft\downloads\tubesbaru\tubesbaru\relasi.cpp
+	"relasi.h"
+	"penjara.h"
+
+1556571179 source:c:\users\microsoft\downloads\tubesbaru\tubesbaru\tahanan.cpp
+	"tahanan.h"
+	"relasi.h"
+
+1556565321 source:d:\jnana\std\tubes\tubes_last_std\tubesbaru\relasi.cpp
+	"relasi.h"
+	"penjara.h"
+
+1556561018 d:\jnana\std\tubes\tubes_last_std\tubesbaru\relasi.h
+	"penjara.h"
+	<iostream>
+	<stdlib.h>
+
+1556589791 d:\jnana\std\tubes\tubes_last_std\tubesbaru\penjara.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1556571179 source:d:\jnana\std\tubes\tubes_last_std\tubesbaru\tahanan.cpp
+	"tahanan.h"
+	"relasi.h"
+
+1556589702 d:\jnana\std\tubes\tubes_last_std\tubesbaru\tahanan.h
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1556589702 source:d:\jnana\std\tubes\tubes_last_std\tubesbaru\main.cpp
+	"penjara.h"
+	"aplikasi.h"
+	"tahanan.h"
+	"relasi.h"
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+
+1556589702 d:\jnana\std\tubes\tubes_last_std\tubesbaru\aplikasi.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"tahanan.h"
+	"penjara.h"
+	"relasi.h"
+
+1556589791 source:d:\jnana\std\tubes\tubes_last_std\tubesbaru\penjara.cpp
+	"penjara.h"
+
+1556591033 source:d:\jnana\std\tubes\tubes_last_std\tubesbaru\aplikasi.cpp
+	"aplikasi.h"
+
+1556589702 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\main.cpp
+	"penjara.h"
+	"aplikasi.h"
+	"tahanan.h"
+	"relasi.h"
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+
+1556589791 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\penjara.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1556589702 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\aplikasi.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"tahanan.h"
+	"penjara.h"
+	"relasi.h"
+
+1556589702 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\tahanan.h
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1556561018 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\relasi.h
+	"penjara.h"
+	<iostream>
+	<stdlib.h>
+
+1556589791 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\penjara.cpp
+	"penjara.h"
+
+1556565321 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\relasi.cpp
+	"relasi.h"
+	"penjara.h"
+
+1556571179 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\tahanan.cpp
+	"tahanan.h"
+	"relasi.h"
+
+1556591401 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubesbaru\aplikasi.cpp
+	"aplikasi.h"
+
+1556589702 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\main.cpp
+	"penjara.h"
+	"aplikasi.h"
+	"tahanan.h"
+	"relasi.h"
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+
+1556589791 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\penjara.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1556589702 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\aplikasi.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	"tahanan.h"
+	"penjara.h"
+	"relasi.h"
+
+1556589702 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\tahanan.h
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1556561018 c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\relasi.h
+	"penjara.h"
+	<iostream>
+	<stdlib.h>
+
+1556589791 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\penjara.cpp
+	"penjara.h"
+
+1556565321 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\relasi.cpp
+	"relasi.h"
+	"penjara.h"
+
+1556571179 source:c:\users\microsoft\desktop\tubes_last_std\tubes_last_std\tubes_std_aryadipramarta(1301184175)_jnanasindhu\tahanan.cpp
+	"tahanan.h"
+	"relasi.h"
+
